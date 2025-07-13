@@ -309,12 +309,12 @@ typedef struct _XkbControlsChanges {
 
 .fi
 .SH "SEE ALSO"
-XkbChangeControls(__libmansuffix__),
-XkbChangeDeviceInfo(__libmansuffix__),
-XkbChangeEnabledControls(__libmansuffix__),
-XkbChangeMap(__libmansuffix__),
-XkbChangeNames(__libmansuffix__),
-XkbChangeTypesOfKey(__libmansuffix__)
+.BR XkbChangeControls (__libmansuffix__),
+.BR XkbChangeDeviceInfo (__libmansuffix__),
+.BR XkbChangeEnabledControls (__libmansuffix__),
+.BR XkbChangeMap (__libmansuffix__),
+.BR XkbChangeNames (__libmansuffix__),
+.BR XkbChangeTypesOfKey (__libmansuffix__)
 
 
 

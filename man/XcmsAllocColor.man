@@ -154,7 +154,7 @@ errors.
 .B BadColor
 A value for a Colormap argument does not name a defined Colormap.
 .SH "SEE ALSO"
-XcmsQueryColor(__libmansuffix__),
-XcmsStoreColor(__libmansuffix__)
+.BR XcmsQueryColor (__libmansuffix__),
+.BR XcmsStoreColor (__libmansuffix__)
 .br
 \fI\*(xL\fP

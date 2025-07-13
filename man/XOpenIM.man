@@ -201,9 +201,9 @@ The function returns
 if it succeeds; otherwise, it returns
 .BR False .
 .SH "SEE ALSO"
-XCreateIC(__libmansuffix__),
-XSetICFocus(__libmansuffix__),
-XSetICValues(__libmansuffix__),
-XmbResetIC(__libmansuffix__)
+.BR XCreateIC (__libmansuffix__),
+.BR XSetICFocus (__libmansuffix__),
+.BR XSetICValues (__libmansuffix__),
+.BR XmbResetIC (__libmansuffix__)
 .br
 \fI\*(xL\fP
