@@ -234,7 +234,6 @@ The
 .B XWindowChanges
 structure contains:
 .LP
-.LP
 /\&* Configure window value mask bits */
 .TS
 lw(.5i) lw(2.5i) lw(.8i).

@@ -219,7 +219,6 @@ The
 .BR XSetWindow Attributes
 structure contains:
 .LP
-.LP
 /\&* Window attribute value mask bits */
 .TS
 lw(.5i) lw(2.5i) lw(.8i).

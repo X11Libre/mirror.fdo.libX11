@@ -181,7 +181,6 @@ Because of the screen's hardware limitations or gamut compression,
 the colors stored in the colormap may not be identical
 to the colors specified.
 .LP
-.LP
 .B XcmsStoreColors
 can generate
 .BR BadAccess ,

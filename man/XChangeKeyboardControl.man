@@ -154,7 +154,6 @@ The
 .B XKeyboardControl
 structure contains:
 .LP
-.LP
 /\&* Mask bits for ChangeKeyboardControl */
 .TS
 lw(.5i) lw(2.5i) lw(.8i).
