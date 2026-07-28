@@ -601,7 +601,7 @@ void _XSend(Display *dpy, const char *data, long size)
 				ext->before_flush(dpy, &ext->codes, vec[i].iov_base, vec[i].iov_len);
 	}
 
-	if(xcb_writev(c, vec, 3, requests) < 0) {
+	if(xcb_writev(c, vec, 3, requests) <= 0) {
 		_XIOError(dpy);
 		/* If the exit handler returned, discard the buffer now:
 		 * the flag check above only protects later calls. */
